@@ -1,8 +1,29 @@
+body {
+  font-family: Helvetica;
+}
+
 header {
   background-image: url("img/pattern.jpeg");
-  font-family: Helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
   text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brush-heading {
+  background-color: mediumspringgreen;
+}
+
+#frames-heading {
+  background-color: lightcoral;
+}
+
+#paint-heading {
+  background-color: skyblue;
 }
