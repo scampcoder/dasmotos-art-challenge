@@ -27,3 +27,8 @@ h2 {
 #paint-heading {
   background-color: skyblue;
 }
+
+span {
+  font-weight: bold;
+  color: blue;
+}
